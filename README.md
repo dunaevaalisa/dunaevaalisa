@@ -9,7 +9,7 @@ Welcome to my GitHub portfolio! I'm a third-year Software Development student pa
 - **Tech Stack**: Java Spring Boot, React JS, Pytest.  
 - **My Contribution**: Developed RESTful APIs, wrote unit tests, and collaborated on frontend design.  
 
-### [IoT Tram Schedule](https://github.com/username/tram-schedule)  
+### [IoT Tram Schedule][https://github.com/username/tram-schedule](https://github.com/dunaevaalisa/IoT_trams)  
 - **Description**: A real-time tram schedule display using C++ and ESP32.  
 - **Tech Stack**: C++, ESP32, APIs.  
 - **My Contribution**: Programmed the embedded system, tested API integrations, and ensured reliability.  
