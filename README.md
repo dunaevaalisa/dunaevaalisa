@@ -5,7 +5,7 @@ Welcome to my GitHub portfolio! I'm a third-year Software Development student pa
 ## 🚀 Featured Projects  
 
 ### [Quizzer](https://github.com/NULL-Haaga-Helia/Quiz_Project)
-- **Description**: A full-stack quiz management system. 
+- **Description**: A full-stack quiz management system
 - **Tech Stack**: Java Spring Boot, React JS
 - **My Contribution**:
     - Developed RESTful APIs
