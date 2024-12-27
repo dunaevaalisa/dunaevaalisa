@@ -1,6 +1,6 @@
 # Hi, I'm Alisa Dunaeva! 👩‍💻  
 
-Welcome to my GitHub portfolio! I'm a third-year Software Development student passionate about IoT, software testing, and scalable solutions. Here's a highlight of my work:  
+Welcome to my GitHub portfolio! I'm a third-year Software Development student passionate about IoT, backend, and database development. Here's a highlight of my work:  
 
 ## 🚀 Featured Projects  
 
@@ -49,8 +49,8 @@ Welcome to my GitHub portfolio! I'm a third-year Software Development student pa
 
 ## 💻 Skills  
 - **Programming**: C++, Java, React JS, Python  
-- **Tools**: Git, Docker (basic), Linux scripting
-- **Special Interests**: IoT, embedded systems, database development, and scalable solutions. 
+- **Tools**: Git, Docker, Linux scripting
+- **Special Interests**: IoT, embedded systems, database development 
 
 ## 🌍 Let's Connect!  
 - **Email**: dunaevaalisa4@gmail.com  
