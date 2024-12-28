@@ -33,7 +33,7 @@ Welcome to my GitHub portfolio! I'm a third-year Software Development student pa
     - Developed and optimized the feeding schedule system, ensuring reliability and efficiency
  
 
-### [Motorbike Rental App](https://github.com/BenoitFournier1/64-51_mobile_dev_groupe_4/tree/main) 
+### [Motorbike Rental App](https://github.com/dunaevaalisa/motorbike-rental-app-portfolio/tree/main)
 Collaborative project with international students
 - **Description**: A Flutter-based app for managing motorbike rentals
 - **Tech Stack**: Flutter, Firebase.  
