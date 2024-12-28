@@ -21,7 +21,20 @@ Welcome to my GitHub portfolio! I'm a third-year Software Development student pa
     - Developed and configured LED matrix displays, enabling real-time information visualization
     - Optimized connectivity between hardware components and external APIs for smooth functionality
 
+### [Smart Cat Feeder](https://github.com/dunaevaalisa/CatFeeder)
+- **Description**: An IoT-enabled device designed to automate pet feeding, built using ESP32
+- **Tech Stack**: C++, ESP32 
+- **My Contribution**:
+    - Designed, developed, and tested the complete system from scratch
+    - Programmed the servo motor control for precise food dispensing using C++
+    - Integrated an LCD display for real-time feeding status and usage tracking
+    - Configured Adafruit NeoPixel LEDs and a buzzer for visual and audio alerts
+    - Implemented a joystick interface for manual feeding functionality
+    - Developed and optimized the feeding schedule system, ensuring reliability and efficiency
+ 
+
 ### [Motorbike Rental App](https://github.com/BenoitFournier1/64-51_mobile_dev_groupe_4/tree/main) 
+Collaborative project with international students
 - **Description**: A Flutter-based app for managing motorbike rentals
 - **Tech Stack**: Flutter, Firebase.  
 - **My Contribution**:
@@ -36,16 +49,6 @@ Welcome to my GitHub portfolio! I'm a third-year Software Development student pa
     - Enabled functionality for managing bookings
     - Managed the backlog, ensuring timely delivery of project tasks and maintaining feature priorities
   
-### [Smart Cat Feeder](https://github.com/dunaevaalisa/CatFeeder)
-- **Description**: An IoT-enabled device designed to automate pet feeding, built using ESP32
-- **Tech Stack**: C++, ESP32 
-- **My Contribution**:
-    - Designed, developed, and tested the complete system from scratch
-    - Programmed the servo motor control for precise food dispensing using C++
-    - Integrated an LCD display for real-time feeding status and usage tracking
-    - Configured Adafruit NeoPixel LEDs and a buzzer for visual and audio alerts
-    - Implemented a joystick interface for manual feeding functionality
-    - Developed and optimized the feeding schedule system, ensuring reliability and efficiency
 
 ## 💻 Skills  
 - **Programming**: C++, Java, React JS, Python  
