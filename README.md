@@ -20,7 +20,7 @@ Welcome to my GitHub portfolio! I'm a third-year Software Development student pa
     - Wrote unit tests
     - Collaborated on frontend design
 
-### [IoT Tram Schedule](https://github.com/dunaevaalisa/IoT_trams)  
+### [IoT Tram Schedule](https://github.com/dunaevaalisa/Trams)
 - **Description**: A real-time tram schedule display using C++ and ESP32
 - **Tech Stack**: C++, ESP32, APIs
 - **My Contribution**:
